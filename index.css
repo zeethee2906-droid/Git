@@ -3,4 +3,8 @@ h1{
 }
 header{
     color: red;
+
+
+    margin: 10px;
+    padding: 10px;
 }
